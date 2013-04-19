@@ -1,0 +1,10 @@
+Description:
+    Generate a spec an a lib
+
+Example:
+    rails generate lib Thing
+
+    This will create:
+        lib/thing.rb
+        spec/lib/thing_spec.rb
+
